@@ -1,2 +1,5 @@
-# contracts
-tz1and smart contracts
+# contracts (deprecated)
+
+tz1and V1 smart contracts
+
+Deprecated.
